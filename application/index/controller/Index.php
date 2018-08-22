@@ -9,6 +9,6 @@ class Index extends Controller
     {
 
         $this->view->engine->layout(true);
-        return $this->fetch();
+        return $this->fetch('index');
     }
 }
