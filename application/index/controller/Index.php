@@ -7,7 +7,6 @@ class Index extends Controller
 {
     public function index()
     {
-        $this->view->engine->layout('Layout/layout');
-        return $this->display('index');
+        return view();
     }
 }
