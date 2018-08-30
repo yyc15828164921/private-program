@@ -145,6 +145,7 @@ return [
         '__PUBLIC__' => '/public/',
         '__CSS__'    => '/public/static/css/',
         '__JS__'     => '/public/static/js/',
+        '__IMG__'    => '/public/static/image',
     ],
 
     // 默认跳转页面对应的模板文件
