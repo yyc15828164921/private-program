@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="571eb3e7-f4c8-4ff9-b833-9633fa29b711" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/application/config.php" afterPath="$PROJECT_DIR$/application/config.php" />
-    </list>
+    <list default="true" id="571eb3e7-f4c8-4ff9-b833-9633fa29b711" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +36,8 @@
       <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+            <state relative-caret-position="304">
+              <caret line="143" column="33" lean-forward="true" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -206,12 +204,12 @@
       <updated>1534908137793</updated>
       <workItem from="1534908139332" duration="7231000" />
       <workItem from="1535447675555" duration="4278000" />
-      <workItem from="1535613365725" duration="953000" />
+      <workItem from="1535613365725" duration="1370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12462000" />
+    <option name="totallyTimeSpent" value="12879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1916" y="0" width="1348" height="1056" extended-state="0" />
@@ -416,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="149" column="0" lean-forward="true" selection-start-line="149" selection-start-column="0" selection-end-line="149" selection-end-column="0" />
+        <state relative-caret-position="304">
+          <caret line="143" column="33" lean-forward="true" selection-start-line="143" selection-start-column="33" selection-end-line="143" selection-end-column="33" />
           <folding />
         </state>
       </provider>
