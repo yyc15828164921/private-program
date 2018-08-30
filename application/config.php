@@ -142,10 +142,10 @@ return [
 
     // 视图输出字符串内容替换
     'view_replace_str'       => [
-        '__PUBLIC__' => '/public/',
-        '__CSS__'    => '/public/static/css/',
-        '__JS__'     => '/public/static/js/',
-        '__IMG__'    => '/public/static/image',
+        '__PUBLIC__' => '/',
+        '__CSS__'    => '/static/css/',
+        '__JS__'     => '/static/js/',
+        '__IMG__'    => '/static/image',
     ],
 
     // 默认跳转页面对应的模板文件
