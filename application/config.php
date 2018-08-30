@@ -143,8 +143,8 @@ return [
     // 视图输出字符串内容替换
     'view_replace_str'       => [
         '__PUBLIC__' => '/',
-        '__CSS__'    => '/static/css/',
-        '__JS__'     => '/static/js/',
+        '__CSS__'    => '/static/css',
+        '__JS__'     => '/static/js',
         '__IMG__'    => '/static/image',
     ],
 
